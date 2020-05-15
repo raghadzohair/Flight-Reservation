@@ -1,0 +1,124 @@
+###########################################
+
+***** Welcome to Flight Reservation System *****
+
+###########################################
+
+Flight SA220 Successfully Added
+
+###########################################
+
+Pssenger Saud_Ahmad Successfully Added
+
+###########################################
+
+Flight SA230 Successfully Added
+
+###########################################
+
+Flight SA760 Successfully Added
+
+###########################################
+
+Flight SA222 Successfully Added
+
+###########################################
+
+Flight SA333 Was not Added
+
+ You exced the maximum number of Flights
+
+###########################################
+
+Pssenger Sara_Ali Successfully Added
+
+###########################################
+
+Pssenger Samia_Samer Successfully Added
+
+###########################################
+
+Pssenger Faisal_Ahmad Successfully Added
+
+###########################################
+
+SA760 Booked successfully for 3 passengers, PRN 100
+
+###########################################
+
+Pssenger ahlam_Ali Successfully Added
+
+###########################################
+
+Pssenger wed_Samer Successfully Added
+
+###########################################
+
+SA760 Booked successfully for 2 passengers, PRN 101
+
+###########################################
+
+you exceeded the number of booking requests
+
+###########################################
+
+you exceeded the number of booking requests
+
+###########################################
+
+you exceeded the number of booking requests
+
+###########################################
+
+Booking Information for PNR# JED100
+
+
+Flight SA760 Information 
+
+ from:Jeddah
+
+ to: London
+
+ total seats: 868
+
+ available seats: 5
+
+ ticket price: 4500.0
+
+###########################################
+
+No Record found with the PNR LND103
+
+
+
+###########################################
+
+Flight SA760 Information
+
+ from:Jeddah
+
+ to: London
+
+ total seats: 868
+
+ available seats: 5
+
+ ticket price: 4500.0
+
+Passengers list:
+
+
+
+#####################################
+
+No Record found with the Flight Code SA70
+
+
+
+###########################################
+
+Thank you for using the flight booking System, Good Bye!
+
+
+###########################################
+
